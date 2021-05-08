@@ -18,3 +18,6 @@
 나중에 참고할 수 있도록 하기 위해서이다. 총 여섯 장으로 구성되어있다.
 
 ![book](./images/book.jpg)
+
+[개인블로그](https://park-young-bin.github.io/, "깃허브 블로그")
+
